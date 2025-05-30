@@ -1,0 +1,250 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 100,
+      "type": "Expense",
+      "description": "Restaurant",
+      "category": "Food",
+      "created_at": "2023-03-15T23:00:00"
+    },
+    {
+      "id": 2,
+      "amount": 159,
+      "type": "Expense",
+      "description": "Gas",
+      "category": "Car",
+      "created_at": "2023-03-15T23:00:00"
+    },
+    {
+      "id": 3,
+      "amount": 500,
+      "type": "Income",
+      "description": "Salary",
+      "category": "",
+      "created_at": "2023-03-15T23:00:00"
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 4
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 5
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 6
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 7
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 8
+    },
+    {
+      "type": "Expense",
+      "category": "Entertainment",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 9
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 10
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 11
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 12
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 13
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 14
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 15
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 16
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 17
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 18
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 19
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 20
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 21
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 22
+    },
+    {
+      "type": "Expense",
+      "category": "Gift",
+      "amount": 0,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 23
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 5000,
+      "description": "",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 24
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 5000,
+      "description": "kjhgfds",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 25
+    },
+    {
+      "type": "Expense",
+      "category": "Investment",
+      "amount": 250,
+      "description": "1 stock of amazon",
+      "created_at": "2025-05-02T00:00:00",
+      "id": 26
+    },
+    {
+      "type": "Expense",
+      "category": "Food",
+      "amount": 10,
+      "description": "wsg bro",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 27
+    },
+    {
+      "type": "Expense",
+      "category": "Investment",
+      "amount": 1000000000000000000,
+      "description": "Bought an island",
+      "created_at": "2025-05-27T00:00:00",
+      "id": 28
+    }
+  ],
+  "trends": [
+    {
+      "id": "Income",
+      "amount": 4000,
+      "prevAmount": 3000
+    },
+    {
+      "id": "Expense",
+      "amount": 4000,
+      "prevAmount": 3000
+    },
+    {
+      "id": "Saving",
+      "amount": 4000,
+      "prevAmount": 3000
+    },
+    {
+      "id": "Investment",
+      "amount": 4000,
+      "prevAmount": 3000
+    }
+  ]
+}
